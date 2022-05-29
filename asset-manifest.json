@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FRONTEND-AUTOMOBILE/static/css/main.393b201e.css",
+    "main.js": "/FRONTEND-AUTOMOBILE/static/js/main.26516de0.js",
+    "static/js/787.22edae46.chunk.js": "/FRONTEND-AUTOMOBILE/static/js/787.22edae46.chunk.js",
+    "index.html": "/FRONTEND-AUTOMOBILE/index.html",
+    "main.393b201e.css.map": "/FRONTEND-AUTOMOBILE/static/css/main.393b201e.css.map",
+    "main.26516de0.js.map": "/FRONTEND-AUTOMOBILE/static/js/main.26516de0.js.map",
+    "787.22edae46.chunk.js.map": "/FRONTEND-AUTOMOBILE/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.393b201e.css",
+    "static/js/main.26516de0.js"
+  ]
+}
